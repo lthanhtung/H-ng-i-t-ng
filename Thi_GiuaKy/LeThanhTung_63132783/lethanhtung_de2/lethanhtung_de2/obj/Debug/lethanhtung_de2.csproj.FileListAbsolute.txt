@@ -1,0 +1,8 @@
+D:\LeThanhTung_63132783\lethanhtung_de2\lethanhtung_de2\bin\Debug\lethanhtung_de2.exe.config
+D:\LeThanhTung_63132783\lethanhtung_de2\lethanhtung_de2\bin\Debug\lethanhtung_de2.exe
+D:\LeThanhTung_63132783\lethanhtung_de2\lethanhtung_de2\bin\Debug\lethanhtung_de2.pdb
+D:\LeThanhTung_63132783\lethanhtung_de2\lethanhtung_de2\obj\Debug\lethanhtung_de2.csproj.AssemblyReference.cache
+D:\LeThanhTung_63132783\lethanhtung_de2\lethanhtung_de2\obj\Debug\lethanhtung_de2.csproj.SuggestedBindingRedirects.cache
+D:\LeThanhTung_63132783\lethanhtung_de2\lethanhtung_de2\obj\Debug\lethanhtung_de2.csproj.CoreCompileInputs.cache
+D:\LeThanhTung_63132783\lethanhtung_de2\lethanhtung_de2\obj\Debug\lethanhtung_de2.exe
+D:\LeThanhTung_63132783\lethanhtung_de2\lethanhtung_de2\obj\Debug\lethanhtung_de2.pdb

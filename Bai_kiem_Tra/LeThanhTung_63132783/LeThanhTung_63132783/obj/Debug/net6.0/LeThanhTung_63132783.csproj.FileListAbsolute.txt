@@ -1,0 +1,15 @@
+D:\LeThanhTung_63132783\LeThanhTung_63132783\bin\Debug\net6.0\LeThanhTung_63132783.exe
+D:\LeThanhTung_63132783\LeThanhTung_63132783\bin\Debug\net6.0\LeThanhTung_63132783.deps.json
+D:\LeThanhTung_63132783\LeThanhTung_63132783\bin\Debug\net6.0\LeThanhTung_63132783.runtimeconfig.json
+D:\LeThanhTung_63132783\LeThanhTung_63132783\bin\Debug\net6.0\LeThanhTung_63132783.dll
+D:\LeThanhTung_63132783\LeThanhTung_63132783\bin\Debug\net6.0\LeThanhTung_63132783.pdb
+D:\LeThanhTung_63132783\LeThanhTung_63132783\obj\Debug\net6.0\LeThanhTung_63132783.csproj.AssemblyReference.cache
+D:\LeThanhTung_63132783\LeThanhTung_63132783\obj\Debug\net6.0\LeThanhTung_63132783.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeThanhTung_63132783\LeThanhTung_63132783\obj\Debug\net6.0\LeThanhTung_63132783.AssemblyInfoInputs.cache
+D:\LeThanhTung_63132783\LeThanhTung_63132783\obj\Debug\net6.0\LeThanhTung_63132783.AssemblyInfo.cs
+D:\LeThanhTung_63132783\LeThanhTung_63132783\obj\Debug\net6.0\LeThanhTung_63132783.csproj.CoreCompileInputs.cache
+D:\LeThanhTung_63132783\LeThanhTung_63132783\obj\Debug\net6.0\LeThanhTung_63132783.dll
+D:\LeThanhTung_63132783\LeThanhTung_63132783\obj\Debug\net6.0\refint\LeThanhTung_63132783.dll
+D:\LeThanhTung_63132783\LeThanhTung_63132783\obj\Debug\net6.0\LeThanhTung_63132783.pdb
+D:\LeThanhTung_63132783\LeThanhTung_63132783\obj\Debug\net6.0\LeThanhTung_63132783.genruntimeconfig.cache
+D:\LeThanhTung_63132783\LeThanhTung_63132783\obj\Debug\net6.0\ref\LeThanhTung_63132783.dll
